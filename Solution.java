@@ -1,7 +1,7 @@
 import java.math.BigInteger;
 import java.util.*;
 
-public class OrganizingContainersOfBalls {
+public class Solution {
 
 	public static void main(String[] args) {
 		String result;
